@@ -1,0 +1,15 @@
+h3{
+    font-size: 25px !important;
+    }
+    
+    canvas{
+        border: 2px dashed darkblue;
+        
+    }
+body{
+    background-image:'orange.jpg';
+}
+
+div{
+    background-color: rgb(255, 196, 0);
+}
